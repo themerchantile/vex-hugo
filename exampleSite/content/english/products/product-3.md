@@ -7,8 +7,8 @@ images:
 - images/showcase/showcase-1.png
 - images/showcase/showcase-4.png
 description: graphene os google pixel 3a xl secure private anonymous
-price: "499.99"
-discount_price: '50.00'
+price: "549.99"
+discount_price: "499.99"
 colors:
 - black
 sizes: []
