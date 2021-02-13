@@ -1,5 +1,5 @@
 ---
-title: 'Google Pixel 3a XL '
+title: Google Pixel 3a XL (De-Googled) Unlocked Grade A+
 date: 2021-02-13T13:02:00-08:00
 images:
 - images/showcase/showcase-3.png
@@ -14,6 +14,6 @@ colors:
 sizes: []
 
 ---
-Like new (immaculate condition), configured with Graphene OS ([https://grapheneos.org/](https://grapheneos.org/ "https://grapheneos.org/"))
+Google Pixel 3a XL 64GB (overstock, like new-immaculate condition) configured with Graphene OS ([https://grapheneos.org/](https://grapheneos.org/ "https://grapheneos.org/"))
 
 Device includes usb-c charging cable and power brick. Optional accessories sold separately and can be found in our product store.
