@@ -2,6 +2,7 @@
 title: Google Pixel 3a XL (De-Googled) Unlocked Grade A+
 date: 2021-02-13T13:02:00-08:00
 images:
+- "/images/mobile-4710790_1920.jpg"
 - images/showcase/showcase-3.png
 - images/showcase/showcase-2.png
 - images/showcase/showcase-1.png
