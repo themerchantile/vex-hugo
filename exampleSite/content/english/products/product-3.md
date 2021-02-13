@@ -1,24 +1,19 @@
 ---
-title: "Xiaomi Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-4.png"
+title: 'Google Pixel 3a XL '
+date: 2021-02-13T13:02:00-08:00
+images:
+- images/showcase/showcase-3.png
+- images/showcase/showcase-2.png
+- images/showcase/showcase-1.png
+- images/showcase/showcase-4.png
+description: graphene os google pixel 3a xl secure private anonymous
+price: "499.99"
+discount_price: '50.00'
+colors:
+- black
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+Like new (immaculate condition), configured with Graphene OS ([https://grapheneos.org/](https://grapheneos.org/ "https://grapheneos.org/"))
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Device includes usb-c charging cable and power brick. Optional accessories sold separately and can be found in our product store.
