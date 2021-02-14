@@ -1,15 +1,12 @@
 ---
 title: Glass Screen Protector
-date: 2019-10-17T11:22:16.000+06:00
+date: 2021-02-13T12:22:16-08:00
 image: images/showcase/showcase-5.png
 images:
-- images/showcase/showcase-5.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-4.png
-description: this is meta description
-price: '30.00'
-discount_price: '25.00'
+- "/images/shieldz1.png"
+description: glass screen protector google pixel 3a xl super shieldz 9h hardness 2.5D
+price: '15.00'
+discount_price: '10.00'
 colors:
 - black
 - white
