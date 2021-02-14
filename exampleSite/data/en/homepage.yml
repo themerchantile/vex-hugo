@@ -85,7 +85,7 @@ testimonial:
   testimonial_item:
   - name: 'Adam S. '
     designation: 'Customer '
-    image: "/images/man-1283576_1920.jpg"
+    image: "/images/man.png"
     content: excellent customer service! order shipped extremely fast!
   - name: Jonathon Andrew
     designation: CEO, Themefisher
