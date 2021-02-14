@@ -83,6 +83,13 @@ testimonial:
   enable: true
   title: Watch Review
   testimonial_item:
+  - name: Adam S.
+    designation: Customer
+    image: ''
+    content: 'Fast delivery, great packaging, near perfect condition. I called them
+      via signal to confirm the phone would work for my needs and they answered right
+      away. We decided that the pixel & verizon SIM would be best for my area. Keep
+      up the great work Anon Phones! I appreciate what you''re doing : )'
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
