@@ -18,3 +18,4 @@ opennig_hour:
   - 'Friday: 9 AM – 5 PM PST'
 
 ---
+[https://signal.org/install](https://signal.org/install "https://signal.org/install")![](/images/signal.png)
