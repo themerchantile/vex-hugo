@@ -81,7 +81,7 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: Customer Reviews
   testimonial_item:
   - name: 'Adam S. '
     designation: 'Customer '
