@@ -83,6 +83,13 @@ testimonial:
   enable: true
   title: Customer Reviews
   testimonial_item:
+  - name: Matt M.
+    designation: Customer
+    image: ''
+    content: You guys rock! I was a bit intimidated on doing the OS myself. Your prices
+      are much better than what I could find online and it arrived ready-to-go. Decided
+      to go with the 3a xl combo with case/screen protector. I've got some referrals
+      to send your way too.
   - name: 'Adam S. '
     designation: 'Customer '
     image: "/images/man.png"
