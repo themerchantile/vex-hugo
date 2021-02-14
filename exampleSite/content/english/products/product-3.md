@@ -3,10 +3,6 @@ title: Google Pixel 3a XL (De-Googled) Unlocked Grade A+
 date: 2021-02-13T13:02:00-08:00
 images:
 - "/images/mobile-4710790_1920.jpg"
-- images/showcase/showcase-3.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-1.png
-- images/showcase/showcase-4.png
 description: graphene os google pixel 3a xl secure private anonymous
 price: "549.99"
 discount_price: "499.99"
