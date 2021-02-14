@@ -8,6 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  hidden: false
 - type: image_gallery
   name: images
   label: images
@@ -23,6 +24,8 @@ fields:
 - type: tag_list
   name: colors
   label: colors
+  hidden: false
 - type: tag_list
   name: sizes
   label: sizes
+  hidden: true
