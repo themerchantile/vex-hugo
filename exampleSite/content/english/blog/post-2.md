@@ -12,9 +12,9 @@ After purchasing your Anon Phone, you'll want to properly set up your new device
 
 Immediately: **_Fit a case and screen protector_**
 
-Sooner or later your new phone will hit the ground or take an inevitable tumble. Protect it with a case and screen protector. It's cheap insurance and you'll thank us later. You can purchase a screen and case in our [Product Store](https://app.forestry.io/sites/hwdlor1bbi6ijw/#/sections/all-page-en/examplesite/content/english/products/ "Product Store").
+Sooner or later your new phone will hit the ground or take an inevitable tumble. Protect it with a case and screen protector. It's cheap insurance and you'll thank us later. You can purchase a screen protector and case in our [Product Store](https://app.forestry.io/sites/hwdlor1bbi6ijw/#/sections/all-page-en/examplesite/content/english/products/ "Product Store").
 
-For the Pixel 3a XL I recommend the [Otterbox Symmetry ](https://distracted-ptolemy-1fd198.netlify.app/products/product-5/ "Otterbox Symmetry")and the [Spigen GLAS.tR SLIM screen protector](https://www.spigen.com/collections/google-pixel-3a-3a-xl/products/pixel-3a-screen-protector-glas-tr-slim-2-pack). They’re not cheap, but the’re good quality. I fitted mine more than six months ago and they continue to impress me.
+For the Pixel 3a XL I recommend the [Otterbox Symmetry ](https://distracted-ptolemy-1fd198.netlify.app/products/product-5/ "Otterbox Symmetry")case and the [Super Shieldz Screen Protector](https://distracted-ptolemy-1fd198.netlify.app/products/product-5/ "Super Shieldz Screen Protector"). They’re not cheap, but the’re good quality. I fitted mine more than six months ago and they continue to impress me.
 
 ## Step 1: Install GrapheneOS
 
@@ -188,12 +188,10 @@ _On your computer_
 Here’s how I copied the Signal backup directory from my old phone to my computer:
 
     $ adb pull /sdcard/Signal
-    
 
 Then, from the same directory as the previous command, this copied it onto the Pixel 3a:
 
     $ adb push Signal /sdcard/
-    
 
 ## Step 9: Register and configure Signal
 
@@ -398,7 +396,6 @@ Download the black image file from the link above, then `cd` into the directory 
 Copy it to the phone with:
 
     $ adb push black.png /sdcard/Wallpaper/black.png
-    
 
 _On your phone_
 
