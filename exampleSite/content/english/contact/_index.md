@@ -8,12 +8,12 @@ office:
   location: 'Reno, NV '
   content: 'Office hours are Monday through Friday between 10am-2pm Pacific Time '
 opennig_hour:
-  title: Open Hours
+  title: Business Hours
   day_time:
-  - 'Monday: 10:00 – 15:00'
-  - 'Tuesday: 10:00 – 15:00'
-  - 'Wednesday: 10:00 – 15:00'
-  - 'Thursday: 10:00 – 15:00'
-  - 'Friday: 10:00 – 15:00'
+  - 'Monday: 9 AM – 5 PM PST'
+  - 'Tuesday: 9 AM – 5 PM PST'
+  - 'Wednesday: 9 AM – 5 PM PST'
+  - 'Thursday: 9 AM – 5 PM PST'
+  - 'Friday: 9 AM – 5 PM PST'
 
 ---
