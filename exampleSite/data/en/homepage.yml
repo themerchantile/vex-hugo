@@ -5,7 +5,7 @@ banner:
   content: We provide mobile phones that are secure, private and protect against data
     theft. We use brand name hardware, open source encrypted software & advise our
     customers on proper communications security.
-  image: images//images/ap3-01.png
+  image: images/images/watch.png
   button:
     enable: true
     label: Browse All Products
