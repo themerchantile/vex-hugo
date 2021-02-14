@@ -77,7 +77,7 @@ subscription:
   enable: true
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  content: Keep up-to-date with our new products and blog posts
   placeholder: Your Email Address Here
 testimonial:
   enable: true
