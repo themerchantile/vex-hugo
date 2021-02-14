@@ -8,7 +8,7 @@ office:
   location: 'Reno, NV '
   content: 'Office hours are Monday through Friday between 10am-2pm Pacific Time '
 opennig_hour:
-  title: Opening Hours
+  title: Open Hours
   day_time:
   - 'Monday: 10:00 – 15:00'
   - 'Tuesday: 10:00 – 15:00'
