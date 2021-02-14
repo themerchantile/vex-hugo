@@ -6,8 +6,8 @@ office:
   mobile: "(775)403-8300"
   email: contact@anonphones.com
   location: '316 California Ave #555 Reno, NV 89509'
-  content: Office hours are Monday through Friday between 9 AM - 5 PM Pacific Standard
-    Time
+  content: 'Contact us securely within normal business hours via Signal using the
+    phone number below:'
 opennig_hour:
   title: Business Hours
   day_time:
