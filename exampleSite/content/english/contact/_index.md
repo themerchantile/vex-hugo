@@ -6,8 +6,8 @@ office:
   mobile: "(775)403-8300"
   email: contact@anonphones.com
   location: '316 California Ave #555 Reno, NV 89509'
-  content: 'Contact us securely within normal business hours via Signal using the
-    phone number below:'
+  content: 'Contact us securely within normal business hours via Signal Messenger
+    using the phone number below:'
 opennig_hour:
   title: Business Hours
   day_time:
