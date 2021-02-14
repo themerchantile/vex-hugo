@@ -6,8 +6,8 @@ office:
   mobile: "(775)403-8300"
   email: contact@anonphones.com
   location: '316 California Ave #555 Reno, NV 89509'
-  content: 'Contact us securely within normal business hours via Signal Messenger
-    using the phone number below:'
+  content: Contact us securely within normal business hours via telephone [Signal
+    Messenger preferred] (https://signal.org/install)
 opennig_hour:
   title: Business Hours
   day_time:
@@ -18,4 +18,3 @@ opennig_hour:
   - 'Friday: 9 AM – 5 PM PST'
 
 ---
-[https://signal.org/install](https://signal.org/install "https://signal.org/install")![](/images/signal.png)
