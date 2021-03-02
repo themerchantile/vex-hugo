@@ -26,10 +26,9 @@ features:
     content: 'Originally release 2019: Factory Unlocked GSM / CDMA / HSPA / EVDO /
       LTE'
   right_side:
-  - title: Smooth Touch
+  - title: Graphene OS
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Configured with the latest release of Graphene OS. Modern, secure & lighweight
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
