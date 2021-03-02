@@ -39,9 +39,10 @@ features:
       No google apps or services. Fully featured, modern & secure. More information:
       www.grapheneos.org'
   - title: All Day Battery Life
-    icon: tf-ion-ios-bell-outline
-    content: 'Pixel''s largest battery ever offered, 3700 mAh Charging: Fast charging
-      18W Cables included: USB Type-C 2.0 cable & wall adapter'
+    icon: tf-ion-ios-alarm-outline
+    content: 'Huge battery: 3700 mAh All day capacity. Quick Charging: 18W. Cables
+      included: USB Type-C 2.0 cable & wall adapter. Fast delivery & secured with
+      anti-tamper packaging'
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
