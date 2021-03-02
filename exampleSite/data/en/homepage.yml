@@ -110,9 +110,9 @@ testimonial:
   - name: 'Adam S. '
     designation: 'Customer '
     image: "/images/man.png"
-    content: Fast shipping, discrete packaging and the phone was in perfect condition.
+    content: "Fast shipping, discrete packaging and the phone was in perfect condition.
       I feel a lot better that I'm not being watched and my data isn't being sold.
-      Open source all the way! Thanks again!
+      Open source all the way! Thanks again!\n\n"
   - name: '"Michelle S"'
     designation: Customer
     image: images/girl.png
