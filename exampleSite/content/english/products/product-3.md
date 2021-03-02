@@ -1,23 +1,23 @@
 ---
-title: Google Pixel 3a XL (De-Googled) Unlocked Grade A+
-date: 2021-03-02T00:00:00-08:00
+title: Xiaomi Watch
+date: 2019-10-17T11:22:16.000+06:00
 images:
-- "/images/productsphone.png"
-- "/images/productsphone2.png"
-description: graphene os google pixel 3a xl secure private anonymous
-price: "549.99"
-discount_price: "499.99"
+- images/showcase/showcase-3.png
+- images/showcase/showcase-2.png
+- images/showcase/showcase-1.png
+- images/showcase/showcase-4.png
+description: this is meta description
+price: '30.00'
+discount_price: '25.00'
 colors:
-- verizon
-- att
-- tmobile
-sizes: []
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
+draft: true
 
 ---
-Google Pixel 3a XL 64GB (overstock, like new-immaculate condition) configured with Graphene OS ([https://grapheneos.org/](https://grapheneos.org/ "https://grapheneos.org/"))
-
-Device includes usb-c charging cable and wall adapter. Optional accessories sold separately and can be found in our product store.
-
-Quick shipping and tamper-proof packaging ensures you get your device on-time and in original condition.
-
-Every phone purchase receives a free SIM card - please make your selection according to your preferred carrier. _Service plan NOT included_
+Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
