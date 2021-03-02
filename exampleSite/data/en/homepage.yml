@@ -89,7 +89,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: Checkout Our Products
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
