@@ -50,11 +50,14 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Security by Design
+  content: 'Supported by privacy advocates, it''s the only device we trust. Google''s
+    Pixel devices are some of the most secure devices on the market. However, stock
+    Android includes "Play Store" trackers and background "MicroG" services that exploit
+    your data. By combining secure hardware with open-source privacy focused software,
+    we can achieve the ultimate in data protection and privacy. Without background
+    services tracking your every move, you can rest easy knowing your data isn''t
+    being used against you.  '
 about_product:
   enable: true
   title: Why Choose Apple Watch
