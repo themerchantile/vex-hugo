@@ -66,10 +66,12 @@ about_product:
   title: Why Choose Us?
   items:
   - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Free SIM Card With Every Purchase
+    content: 'The only way to achieve Ultimate Privacy is to separate your device
+      from your identity. We know & understand the difficulty in achieving this from
+      a practical standpoint which is why every device you purchase from us will come
+      with a SIM card of your choice. That''s right, free of charge - ready for activation!
+      Simply choose your carrier during checkout. '
     button:
       enable: false
       label: Check Features
