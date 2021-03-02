@@ -1,9 +1,9 @@
 baseurl = "http://distracted-ptolemy-1fd198.netlify.app"
 disableLanguages = ["fr"]
-googleAnalytics = "private secure anonymous mobile cell phone for sale sim plans "
+googleAnalytics = "private secure anonymous mobile cell phone for sale sim data plans "
 summarylength = "20"
 theme = "vex-hugo"
-title = "Anon Phones | devices you can trust"
+title = "Devices You Can Trust"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
