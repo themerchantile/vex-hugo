@@ -78,10 +78,11 @@ about_product:
       label: Check Features
       link: "#"
   - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Confidentiality & Secure Contact
+    content: |-
+      We support your right to privacy and confidentiality. We accept a variety of payment methods. We accept major credit cards, gift cards (privacy conscious), paypal and even cash-by-mail. If you would like to pay via cryptocurrencies, we'll accept those too but you'll need to contact us directly.
+
+      We're available to discuss specifics or help you with your purchasing decision. Please contact us via phone or email. We prefer you contact us via Signal App
     button:
       enable: false
       label: Check Features
