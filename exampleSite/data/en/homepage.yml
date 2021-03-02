@@ -45,8 +45,8 @@ features:
       anti-tamper packaging'
   - title: Quality & 30-Day Guarantee
     icon: tf-ion-ios-alarm-outline
-    content: 'A+ Grade, Pristine Condition. We choose nearly perfect units that must
-      pass our QA testing criteria.  '
+    content: A+ Grade, Pristine Condition. We choose nearly perfect units that must
+      pass our Quality Assurance checks. We warranty each device for 30 days.
 promo:
   enable: true
   image: images/watch.png
