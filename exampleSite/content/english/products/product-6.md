@@ -1,24 +1,23 @@
 ---
-title: "Realme Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-6.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: SIM Card
+date: 2019-10-17T11:22:16.000+06:00
+images:
+- "/images/simcards2.png"
+- images/showcase/showcase-6.png
+- images/showcase/showcase-2.png
+- images/showcase/showcase-3.png
+- images/showcase/showcase-4.png
+description: verizon sim card tmobile sim card
+price: '10.00'
+discount_price: ''
+colors:
+- verizon
+- tmobile
+- att
+sizes:
+- small
+- medium
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Variety of SIM cards available for your service area. Please select from the following options: Verizon, Tmobile or AT&T. SIM cards may be sourced from a variety of suppliers depending on availability however all of them will be the pre-paid variety. 
