@@ -12,13 +12,12 @@ banner:
     link: products
 features:
   enable: true
-  title: Anon Phones Core Features
+  title: Degoogled Pixel 3a XL
   image: images/main-image.png
   left_side:
-  - title: Smooth Touch
+  - title: 'Fast Storage '
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: '64 GB storage, Snapdragon 670 & 4GB Ram '
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
