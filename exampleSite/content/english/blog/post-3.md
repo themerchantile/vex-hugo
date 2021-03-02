@@ -1,7 +1,7 @@
 ---
 title: Coming Soon
 date: 2019-10-17T11:22:16.000+06:00
-image: images/showcase/showcase-3.png
+image: "/images/1_pfqk3l5nh7p3tyhrhjgbmg.jpeg"
 description: this is a meta description
 
 ---
