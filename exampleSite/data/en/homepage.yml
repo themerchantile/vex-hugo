@@ -49,7 +49,7 @@ features:
       pass our Quality Assurance checks. We warranty each device for 30 days.
 promo:
   enable: true
-  image: images/watch.png
+  image: images/phoneback.png
   title: Security by Design
   content: 'Supported by privacy advocates, it''s the only device we trust. Google''s
     Pixel devices are some of the most secure devices on the market. However, stock
