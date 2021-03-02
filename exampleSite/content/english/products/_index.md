@@ -1,5 +1,6 @@
 ---
-title: All latest Smart Watch
-description: this is a meta description
+title: 'Devices & Accessories '
+description: mobile phones devices accessories cases screen protectors sims data plan
+  service
 
 ---
