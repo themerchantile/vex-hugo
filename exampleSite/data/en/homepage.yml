@@ -35,9 +35,9 @@ features:
   right_side:
   - title: Graphene OS
     icon: tf-ion-ios-cart-outline
-    content: 'Configured with the latest release of Graphene OS. Modern, secure &
-      lighweight. No google apps or services (Play or MicroG). Fully featured, no
-      limits, keep all your Android apps. More information: www.grapheneos.org'
+    content: 'Latest release of Graphene OS installed. Modern, secure & lighweight.
+      No google apps or services (Play or MicroG). Fully featured, no limits, keep
+      all your Android apps. More information: www.grapheneos.org'
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
