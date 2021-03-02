@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: Anon Phones Core Features
-  image: images/watch-2.png
+  image: images/main-image.png
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
