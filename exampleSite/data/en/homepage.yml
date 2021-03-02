@@ -58,12 +58,12 @@ promo:
     secure hardware with free, open-source and privacy focused software, we can achieve
     the ultimate in data protection and privacy. Without background services tracking
     your every move, you can rest easy knowing your data isn't being used against
-    you. \n\nEvery device is verified upon installation and audited to ensure device
+    you. \n\nEvery software installation is verified and audited to ensure device
     trust and integrity. With modern features such as secure storage enclave, titan
     chip & a fingerprint sensor, you don't have to sacrifice security for convenience. "
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Why Choose Us?
   items:
   - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
