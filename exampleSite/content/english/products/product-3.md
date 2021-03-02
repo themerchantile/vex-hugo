@@ -17,4 +17,6 @@ Google Pixel 3a XL 64GB (overstock, like new-immaculate condition) configured wi
 
 Device includes usb-c charging cable and wall adapter. Optional accessories sold separately and can be found in our product store.
 
+Quick shipping and tamper-proof packaging ensures you get your device on-time and in original condition.
+
 Every phone purchase receives a free SIM card - please make your selection according to your preferred carrier. _Service plan NOT included_
