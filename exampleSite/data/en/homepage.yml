@@ -20,7 +20,9 @@ features:
   left_side:
   - title: 'Fast Storage '
     icon: tf-ion-ios-alarm-outline
-    content: '64 GB storage, Snapdragon 670 & 4GB Ram '
+    content: '64 GB storage, Snapdragon 670 & 4GB Ram Qualcomm SDM670 Snapdragon 670
+      (10 nm) CPU: Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver) GPU:
+      Adreno 615'
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: 6.0" 1080x2160 OLED, 12MP 4K 2160p camera & 3700mAh battery
