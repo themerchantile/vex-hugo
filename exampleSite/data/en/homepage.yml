@@ -77,12 +77,12 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/showcase/showcase-3.png
+  - image: images/icons.png
     title: Confidentiality & Secure Contact
     content: |-
       We support your right to privacy and confidentiality. We accept a variety of payment methods. We accept major credit cards, gift cards (privacy conscious), paypal and even cash-by-mail. If you would like to pay via cryptocurrencies, we'll accept those too but you'll need to contact us directly.
 
-      We're available to discuss specifics or help you with your purchasing decision. Please contact us via phone or email. We prefer you contact us via Signal App
+      We're available to discuss specifics or help you with your purchasing decision. Please contact us via phone or email. Please note: phone calls and email are inherently insecure. We advise you contact us through secure messaging protocols such as: Signal, Telegram. What's App or Keybase.
     button:
       enable: false
       label: Check Features
