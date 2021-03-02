@@ -27,7 +27,7 @@ features:
       LTE'
   right_side:
   - title: Graphene OS
-    icon: tf-ion-ios-alarm-outline
+    icon: tf-ion-ios-cart-outline
     content: Configured with the latest release of Graphene OS. Modern, secure & lighweight
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
