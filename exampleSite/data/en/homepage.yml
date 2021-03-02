@@ -93,7 +93,7 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Get Alerted to New Devices
   content: Keep up-to-date with our new products and blog posts
   placeholder: Your Email Address Here
 testimonial:
