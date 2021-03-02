@@ -1,10 +1,12 @@
 ---
 banner:
   enable: true
-  title: Chose privacy, make the change
-  content: We provide mobile phones that are secure, private and protect against data
-    theft. We use brand name hardware, open source encrypted software & advise our
-    customers on proper communications security.
+  title: Don't be tracked, choose privacy.
+  content: 'We sell devices that are secure, private and protect against data tracking
+    technologies. We use brand name hardware, open-source encrypted software & advise
+    our customers on proper communications security. Every device we sell is checked
+    for functionality, software verified for security and shipped discretely to ensure
+    integrity upon delivery. '
   image: "/images/ap3-01.png"
   button:
     enable: true
