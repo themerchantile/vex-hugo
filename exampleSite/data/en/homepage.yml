@@ -51,13 +51,16 @@ promo:
   enable: true
   image: images/phoneback.png
   title: 'Security by Design: Tested, Proven & Accepted'
-  content: 'Supported by privacy advocates and tested by security professionals, it''s
+  content: "Supported by privacy advocates and tested by security professionals, it's
     the only device we trust. Google Pixel devices are some of the most secure devices
-    on the market. However, stock Android includes "Play Store" trackers and background
-    "MicroG" services that exploit your data. By combining secure hardware with open-source
-    privacy focused software, we can achieve the ultimate in data protection and privacy.
-    Without background services tracking your every move, you can rest easy knowing
-    your data isn''t being used against you. '
+    on the market. However, stock Android includes \"Play Store\" trackers and background
+    \"MicroG\" services that exploit your data and destroy your privacy. By combining
+    secure hardware with free, open-source and privacy focused software, we can achieve
+    the ultimate in data protection and privacy. Without background services tracking
+    your every move, you can rest easy knowing your data isn't being used against
+    you. \n\nEvery device is verified upon installation and audited to ensure device
+    trust and integrity. With modern features such as secure storage enclave, titan
+    chip & a fingerprint sensor, you don't have to sacrifice security for convenience. "
 about_product:
   enable: true
   title: Why Choose Apple Watch
