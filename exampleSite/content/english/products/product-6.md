@@ -2,6 +2,7 @@
 title: SIM Card
 date: 2021-03-02T00:00:00-08:00
 images:
+- "/images/mint.png"
 - "/images/simcards2.png"
 description: verizon sim card tmobile sim card
 price: '10.00'
