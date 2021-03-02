@@ -1,6 +1,6 @@
 ---
 title: SIM Card
-date: 2019-10-17T11:22:16.000+06:00
+date: 2021-03-02T00:00:00-08:00
 images:
 - "/images/simcards2.png"
 - images/showcase/showcase-6.png
