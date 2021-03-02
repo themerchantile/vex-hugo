@@ -43,10 +43,10 @@ features:
     content: 'Huge battery: 3700 mAh All day capacity. Quick Charging: 18W. Cables
       included: USB Type-C 2.0 cable & wall adapter. Fast delivery & secured with
       anti-tamper packaging'
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Affordable Pricing & 30-Day Guarantee
+    icon: tf-ion-ios-alarm-outline
+    content: 'A+ Grade, Pristine Condition. We choose nearly perfect units that must
+      pass our QA testing criteria.  '
 promo:
   enable: true
   image: images/watch.png
