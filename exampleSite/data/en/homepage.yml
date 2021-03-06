@@ -92,7 +92,7 @@ products:
   title: Checkout Our Products
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: images/mobile-4710790_1920.jpg
   title: Get Alerted to New Devices
   content: Keep up-to-date with our new products and blog posts
   placeholder: Your Email Address Here
