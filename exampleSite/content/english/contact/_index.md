@@ -4,8 +4,8 @@ description: contact anon phones via email signal telephone secure private
 office:
   title: Shipping & Returns
   mobile: "(775)403-8300"
-  email: contact@anonphones.com
-  location: '316 California Ave #555 Reno, NV 89509'
+  email: contact@devicesyoucantrust.com
+  location: Location TBD
   content: 'Contact us securely within normal business hours via secure messaging:
     signal, telegram, what''s app & keybase.'
 opennig_hour:
