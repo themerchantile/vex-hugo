@@ -5,7 +5,7 @@ images:
 - "/images/simcards2.png"
 description: verizon sim card tmobile sim card
 price: '10.00'
-discount_price: ''
+discount_price: "$5.00"
 colors:
 - CDMA
 - GSM
