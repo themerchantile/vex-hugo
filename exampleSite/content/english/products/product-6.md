@@ -7,9 +7,8 @@ description: verizon sim card tmobile sim card
 price: '10.00'
 discount_price: ''
 colors:
-- verizon
-- tmobile
-- att
+- CDMA
+- GSM
 sizes:
 - small
 - medium
