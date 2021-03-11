@@ -67,12 +67,14 @@ about_product:
   items:
   - image: images/simcards2.png
     title: Free SIM Card With Every Purchase
-    content: 'The only way to achieve Ultimate Privacy is to separate your device
-      from your identity. We know & understand the difficulty in achieving this from
-      a practical standpoint which is why every device you purchase from us will come
-      with a FREE SIM Card. That''s right, free of charge - ready for activation!
-      Simply choose your carrier during checkout. If you need a mobile plan, we have
-      those available as well. '
+    content: The only way to achieve ultimate privacy is to purchase a fresh device
+      and activate a fresh SIM card. We know & understand the difficulty in achieving
+      this from a practical standpoint which is why every device you purchase from
+      us will come with a FREE SIM Card Package. That's right, free of charge - ready
+      for activation! You choose the SIM that best serves your area - either High
+      Speed LTE on the CDMA network or 4G LTE on the GSM network. *Note activation
+      is up to you, we can't help with this - however the included package is our
+      carrier of choice*
     button:
       enable: false
       label: Check Features
