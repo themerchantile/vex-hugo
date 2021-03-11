@@ -7,7 +7,7 @@ office:
   email: contact@devicesyoucantrust.com
   location: Location TBD
   content: 'Contact us securely within normal business hours via secure messaging:
-    signal, telegram, what''s app & keybase.'
+    signal, telegram, & keybase.'
 opennig_hour:
   title: Business Hours
   day_time:
