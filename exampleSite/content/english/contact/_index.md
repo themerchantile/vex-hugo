@@ -6,8 +6,8 @@ office:
   mobile: "(775)403-8300"
   email: contact@devicesyoucantrust.com
   location: Location TBD
-  content: 'Contact us securely within normal business hours via secure messaging:
-    signal, telegram, & keybase.'
+  content: 'Contact us securely within normal business hours: Signal (775)403-8300
+    Keybase: DYCT Telegram: DYCT'
 opennig_hour:
   title: Business Hours
   day_time:
