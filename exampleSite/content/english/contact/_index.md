@@ -9,7 +9,7 @@ office:
   content: |-
     [Contact us securely within normal business hours]
 
-    Signal (775)403-8300 Keybase: @dyct Telegram: @devicesyoucantrust
+    Signal (775)403-8300 You can find us on Keybase: @dyct You can find us on Telegram: @devicesyoucantrust
 opennig_hour:
   title: Business Hours
   day_time:
