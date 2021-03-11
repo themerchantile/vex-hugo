@@ -5,7 +5,7 @@ office:
   title: Shipping & Returns
   mobile: "(775)403-8300"
   email: contact@devicesyoucantrust.com
-  location: Location TBD
+  location: Reno, NV
   content: 'Contact us securely within normal business hours: Signal (775)403-8300
     Keybase: DYCT Telegram: DYCT'
 opennig_hour:
